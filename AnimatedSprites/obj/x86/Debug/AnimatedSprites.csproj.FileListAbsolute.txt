@@ -1,0 +1,32 @@
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.csprojResolveAssemblyReference.cache
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.csprojResolveAssemblyReference.cache
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\track.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\start.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\skullcollision.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\fonts\Score.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\plus.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threeblades.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\boltcollision.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\fourbladescollision.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\pluscollision.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\threebladescollision.xnb
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\bolt.xnb

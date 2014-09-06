@@ -1,0 +1,3 @@
+C:\Users\William Mac\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache
+C:\Users\willh_000\Desktop\Programming\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
